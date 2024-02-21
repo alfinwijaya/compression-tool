@@ -77,7 +77,7 @@ python main.py input.txt -e output.dat
 To decompress the file "output.dat" and save the decompressed text to "decompressed.txt", use:
 
 ```
-python huffman_coding.py output.dat -d decompressed.txt
+python main.py output.dat -d decompressed.txt
 ```
 **<h2>Testing:</h2>**
 
